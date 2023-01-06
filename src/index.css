@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;;
+}
+
+/* hide scrollbar */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.marker-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.marker-btn img {
+  width: 20px;
+  height: 20px;
+}
+
+.marker-div {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  opacity: 0.8;
+  border: 1px solid rgba(0, 0, 0, 0.422);
+  /* background-color: #000; */
+}
+
+.popup-div > p {
+  font-size: 15px;
+  font-weight: 600;
+  margin: 0;
+}
+
+.popup-div > p > span {
+  font-size: 12px;
+  margin: 0;
+}
+
+.mapboxgl-popup-content{
+  background-color: rgb(255, 219, 219) !important;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2) !important;
+}
+
+.legend-div {
+  cursor: default;
+}
+
+.legend-div > .legend-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.5px;
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.legend-div > .legend-top > .legend-detail {
+  font-size: 12px;
+  font-weight: 600;
+  width: 10vw;
+}
+
+.legend-div > .legend-top > .legend-gradient {
+  height: 10px;
+  width : 90vw;
+  background-image: linear-gradient(
+    to right,
+    yellow 0%,
+    yellow 22%,
+    salmon 22%,
+    salmon 35%,
+    orangered 35%,
+    orangered 62%,
+    purple 62%,
+    purple 92%,
+    red 92%,
+    red 100%
+  );
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.756);
+}
+
+.legend-div > .legend-bottom {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  width: 100vw;
+}
+
+.legend {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+  width: 90vw;
+}
+
+.legend > .legend-item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.legend > .legend-item > .legend-color {
+  width: 10px;
+  height: 10px;
+  border-radius: 1px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.756);
+  margin-right: 5px;
+}
+
+.legend > .legend-item > .legend-text {
+  font-size: 10px;
+  font-weight: 600;
+
+}
+
+.legend > .legend-item > .legend-percent {
+  margin-left: 20px;
+  font-size: 10px;
+  font-weight: 600;
+  color: green;
+}
+
+.legend > .legend-item.li1 {
+  width: 19.8vw;
+}
+
+.legend > .legend-item.li2 {
+  width: 11.7vw;
+}
+
+.legend > .legend-item.li3 {
+  width: 24.3vw;
+}
+
+.legend > .legend-item.li4 {
+  width: 27.3vw;
+}
+
+.legend > .legend-item.li5 {
+  width: 6.9vw;
+}

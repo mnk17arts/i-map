@@ -1,0 +1,1937 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+
+  {
+    "Country": "Albania",
+    "Code": "ALB",
+    "Data": 17.68495178,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.8171824588776, 41.3317566378119]
+    }
+  },
+  {
+    "Country": "Algeria",
+    "Code": "DZA",
+    "Data": 8.643942833,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.63227111244202, 28.1636290531531]
+    }
+  },
+  {
+    "Country": "Andorra",
+    "Code": "AND",
+    "Data": 47.88714218,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [1.56054307445812, 42.5422910300943]
+    }
+  },
+  {
+    "Country": "Angola",
+    "Code": "AGO",
+    "Data": 0.701661587,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.5373676787875, -12.293360053146]
+    }
+  },
+  {
+    "Country": "Antigua and Barbuda",
+    "Code": "ATG",
+    "Data": 8.169183731,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-61.7946939201355, 17.2774991164789]
+    }
+  },
+  {
+    "Country": "Argentina",
+    "Code": "ARG",
+    "Data": 21.1780014,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-65.1798060314474, -35.3813488765646]
+    }
+  },
+  {
+    "Country": "Armenia",
+    "Code": "ARM",
+    "Data": 14.52486324,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [45.0381893000419, 40.0690996977386]
+    }
+  },
+  {
+    "Country": "Aruba",
+    "Code": "ABW",
+    "Data": 17.79592705,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-69.9826773854409, 12.5208804008915]
+    }
+  },
+  {
+    "Country": "Australia",
+    "Code": "AUS",
+    "Data": 35.68494415,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [133.775136, -25.274398]
+    }
+  },
+  {
+    "Country": "Austria",
+    "Code": "AUT",
+    "Data": 28.93498611,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [14.5500725466775, 47.5162317552952]
+    }
+  },
+  {
+    "Country": "Azerbaijan",
+    "Code": "AZE",
+    "Data": 19.68082809,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [47.5459984660094, 40.2882722948279]
+    }
+  },
+  {
+    "Country": "Bahamas",
+    "Code": "BHS",
+    "Data": 21.10648918,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.3962805000001, 25.03428055]
+    }
+  },
+  {
+    "Country": "Bahrain",
+    "Code": "BHR",
+    "Data": 8.752362251,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [50.5419696000001, 26.0420513]
+    }
+  },
+  {
+    "Country": "Bangladesh",
+    "Code": "BGD",
+    "Data": 6.10410881,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [90.2381271, 23.8673116]
+    }
+  },
+  {
+    "Country": "Barbados",
+    "Code": "BRB",
+    "Data": 44.54110336,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-59.543197, 13.193887]
+    }
+  },
+  {
+    "Country": "Belarus",
+    "Code": "BLR",
+    "Data": 34.45275497,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [27.9533899, 53.709807]
+    }
+  },
+  {
+    "Country": "Belgium",
+    "Code": "BEL",
+    "Data": 40.84869766,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [4.469936, 50.503887]
+    }
+  },
+  {
+    "Country": "Belize",
+    "Code": "BLZ",
+    "Data": 9.053688049,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.4976505, 17.189877]
+    }
+  },
+  {
+    "Country": "Benin",
+    "Code": "BEN",
+    "Data": 0.247302696,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.315834, 9.30769]
+    }
+  },
+  {
+    "Country": "Bermuda",
+    "Code": "BMU",
+    "Data": 36.93117905,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-64.7545593, 32.3136784]
+    }
+  },
+  {
+    "Country": "Bhutan",
+    "Code": "BTN",
+    "Data": 0.413292766,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [90.4336013, 27.5141627]
+    }
+  },
+  {
+    "Country": "Bolivia",
+    "Code": "BOL",
+    "Data": 7.983520508,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-63.5886529999999, -16.290154]
+    }
+  },
+  {
+    "Country": "Bosnia and Herzegovina",
+    "Code": "BIH",
+    "Data": 23.48267365,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.679076, 43.915886]
+    }
+  },
+  {
+    "Country": "Botswana",
+    "Code": "BWA",
+    "Data": 11.03597641,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.684866, -22.328474]
+    }
+  },
+  {
+    "Country": "Brazil",
+    "Code": "BRA",
+    "Data": 17.09859276,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-51.92528, -14.235004]
+    }
+  },
+  {
+    "Country": "British Virgin Islands",
+    "Code": "VGB",
+    "Data": 22.28837967,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-64.4714706, 18.5258581]
+    }
+  },
+  {
+    "Country": "Brunei",
+    "Code": "BRN",
+    "Data": 16.24717903,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.727669, 4.535277]
+    }
+  },
+  {
+    "Country": "Bulgaria",
+    "Code": "BGR",
+    "Data": 30.43922806,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.48583, 42.733883]
+    }
+  },
+  {
+    "Country": "Burkina Faso",
+    "Code": "BFA",
+    "Data": 0.066874698,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.561593, 12.238333]
+    }
+  },
+  {
+    "Country": "Burundi",
+    "Code": "BDI",
+    "Data": 0.035573769,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.918886, -3.373056]
+    }
+  },
+  {
+    "Country": "Cambodia",
+    "Code": "KHM",
+    "Data": 1.3982445,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [104.990963, 12.565679]
+    }
+  },
+  {
+    "Country": "Cameroon",
+    "Code": "CMR",
+    "Data": 2.722002268,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [12.354722, 7.369722]
+    }
+  },
+  {
+    "Country": "Canada",
+    "Code": "CAN",
+    "Data": 41.9314003,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-106.346771, 56.130366]
+    }
+  },
+  {
+    "Country": "Cape Verde",
+    "Code": "CPV",
+    "Data": 4.467550278,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-23.605172, 16.5388]
+    }
+  },
+  {
+    "Country": "Cayman Islands",
+    "Code": "CYM",
+    "Data": 48.68993759,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.566956, 19.513469]
+    }
+  },
+  {
+    "Country": "Chad",
+    "Code": "TCD",
+    "Data": 0,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.732207, 15.454166]
+    }
+  },
+  {
+    "Country": "Chile",
+    "Code": "CHL",
+    "Data": 19.68919373,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-71.542969, -35.675147]
+    }
+  },
+  {
+    "Country": "China",
+    "Code": "CHN",
+    "Data": 33.59560394,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [104.195397, 35.86166]
+    }
+  },
+  {
+    "Country": "Colombia",
+    "Code": "COL",
+    "Data": 15.26008415,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-74.297333, 4.570868]
+    }
+  },
+  {
+    "Country": "Comoros",
+    "Code": "COM",
+    "Data": 0.122584954,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [43.3333, -11.6455]
+    }
+  },
+  {
+    "Country": "Congo",
+    "Code": "COG",
+    "Data": 0.018122222,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [15.827659, -0.228021]
+    }
+  },
+  {
+    "Country": "Costa Rica",
+    "Code": "CRI",
+    "Data": 19.48767281,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-83.753428, 9.748917]
+    }
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Code": "CIV",
+    "Data": 0.98602736,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-5.54708, 7.539989]
+    }
+  },
+  {
+    "Country": "Croatia",
+    "Code": "HRV",
+    "Data": 25.11342049,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [15.2, 45.1]
+    }
+  },
+  {
+    "Country": "Cuba",
+    "Code": "CUB",
+    "Data": 2.045217991,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.781167, 21.521757]
+    }
+  },
+  {
+    "Country": "Curacao",
+    "Code": "CUW",
+    "Data": 33.51757813,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-68.933333, 12.116667]
+    }
+  },
+  {
+    "Country": "Cyprus",
+    "Code": "CYP",
+    "Data": 37.39639664,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [33.429859, 35.126413]
+    }
+  },
+  {
+    "Country": "Czechia",
+    "Code": "CZE",
+    "Data": 35.90842056,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [15.472962, 49.817492]
+    }
+  },
+  {
+    "Country": "Democratic Republic of Congo",
+    "Code": "COD",
+    "Data": 0.034613125,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.758664, -4.038333]
+    }
+  },
+  {
+    "Country": "Denmark",
+    "Code": "DNK",
+    "Data": 44.72016144,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.501785, 56.26392]
+    }
+  },
+  {
+    "Country": "Djibouti",
+    "Code": "DJI",
+    "Data": 2.535728693,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [42.590275, 11.825138]
+    }
+  },
+  {
+    "Country": "Dominica",
+    "Code": "DMA",
+    "Data": 22.22654343,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-61.357726, 15.414999]
+    }
+  },
+  {
+    "Country": "Dominican Republic",
+    "Code": "DOM",
+    "Data": 9.512043953,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-70.162651, 18.735693]
+    }
+  },
+  {
+    "Country": "East Asia and Pacific",
+    "Code": "",
+    "Data": 26.41097069,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.819836, 1.352083]
+    }
+  },
+  {
+    "Country": "Ecuador",
+    "Code": "ECU",
+    "Data": 13.44040012,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-78.183406, -1.831239]
+    }
+  },
+  {
+    "Country": "Egypt",
+    "Code": "EGY",
+    "Data": 9.136193275,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.802498, 26.820553]
+    }
+  },
+  {
+    "Country": "El Salvador",
+    "Code": "SLV",
+    "Data": 9.034558296,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-88.89653, 13.794185]
+    }
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Code": "GNQ",
+    "Data": 0.071276598,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [10.267895, 1.650801]
+    }
+  },
+  {
+    "Country": "Eritrea",
+    "Code": "ERI",
+    "Data": 0.140987203,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [39.782334, 15.179384]
+    }
+  },
+  {
+    "Country": "Estonia",
+    "Code": "EST",
+    "Data": 31.33049583,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.013607, 58.595272]
+    }
+  },
+  {
+    "Country": "Eswatini",
+    "Code": "SWZ",
+    "Data": 1.034336567,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [31.465866, -26.522503]
+    }
+  },
+  {
+    "Country": "Ethiopia",
+    "Code": "ETH",
+    "Data": 0.184406221,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [40.489673, 9.145]
+    }
+  },
+  {
+    "Country": "Europe and Central Asia",
+    "Code": "",
+    "Data": 29.86840439,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.748151, 47.162494]
+    }
+  },
+  {
+    "Country": "European Union",
+    "Code": "",
+    "Data": 36.79727554,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [14.550072, 50.075538]
+    }
+  },
+  {
+    "Country": "Faeroe Islands",
+    "Code": "FRO",
+    "Data": 37.74430466,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-6.911806, 61.892635]
+    }
+  },
+  {
+    "Country": "Fiji",
+    "Code": "FJI",
+    "Data": 2.572606325,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [178.065032, -17.713371]
+    }
+  },
+  {
+    "Country": "Finland",
+    "Code": "FIN",
+    "Data": 33.31697083,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [25.748151, 61.92411]
+    }
+  },
+  {
+    "Country": "France",
+    "Code": "FRA",
+    "Data": 46.92102432,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [2.213749, 46.227638]
+    }
+  },
+  {
+    "Country": "French Polynesia",
+    "Code": "PYF",
+    "Data": 22.78326035,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-149.406843, -17.679742]
+    }
+  },
+  {
+    "Country": "Gabon",
+    "Code": "GAB",
+    "Data": 2.004147768,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [11.609444, -0.803689]
+    }
+  },
+  {
+    "Country": "Gambia",
+    "Code": "GMB",
+    "Data": 0.206896439,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-15.310139, 13.443182]
+    }
+  },
+  {
+    "Country": "Georgia",
+    "Code": "GEO",
+    "Data": 24.37005043,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [43.356892, 42.315407]
+    }
+  },
+  {
+    "Country": "Germany",
+    "Code": "DEU",
+    "Data": 43.22463608,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [10.451526, 51.165691]
+    }
+  },
+  {
+    "Country": "Ghana",
+    "Code": "GHA",
+    "Data": 0.25221625,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-1.023194, 7.946527]
+    }
+  },
+  {
+    "Country": "Gibraltar",
+    "Code": "GIB",
+    "Data": 62.35789871,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-5.353585, 36.137741]
+    }
+  },
+  {
+    "Country": "Greece",
+    "Code": "GRC",
+    "Data": 40.84240723,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.824312, 39.074208]
+    }
+  },
+  {
+    "Country": "Greenland",
+    "Code": "GRL",
+    "Data": 27.5656147,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-42.604303, 71.706936]
+    }
+  },
+  {
+    "Country": "Grenada",
+    "Code": "GRD",
+    "Data": 28.43863106,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-61.604171, 12.262776]
+    }
+  },
+  {
+    "Country": "Guam",
+    "Code": "GUM",
+    "Data": 1.777514458,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [144.793731, 13.444304]
+    }
+  },
+  {
+    "Country": "Guatemala",
+    "Code": "GTM",
+    "Data": 3.416023493,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-90.230759, 15.783471]
+    }
+  },
+  {
+    "Country": "Guinea",
+    "Code": "GIN",
+    "Data": 0.007614525,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-9.696645, 9.945587]
+    }
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Code": "GNB",
+    "Data": 0.121087335,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-15.180413, 11.803749]
+    }
+  },
+  {
+    "Country": "Guyana",
+    "Code": "GUY",
+    "Data": 12.07803154,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.93018, 4.860416]
+    }
+  },
+  {
+    "Country": "Haiti",
+    "Code": "HTI",
+    "Data": 0.27186954,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-72.285215, 18.971187]
+    }
+  },
+  {
+    "Country": "High income",
+    "Code": "",
+    "Data": 35.96955872,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0, 0]
+    }
+  },
+  {
+    "Country": "Honduras",
+    "Code": "HND",
+    "Data": 4.007387638,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-86.241905, 15.199999]
+    }
+  },
+  {
+    "Country": "Hong Kong",
+    "Code": "HKG",
+    "Data": 38.48997498,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [114.109497, 22.396428]
+    }
+  },
+  {
+    "Country": "Hungary",
+    "Code": "HUN",
+    "Data": 33.8011322,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.503304, 47.162494]
+    }
+  },
+  {
+    "Country": "Iceland",
+    "Code": "ISL",
+    "Data": 41.55865479,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-19.020835, 64.963051]
+    }
+  },
+  {
+    "Country": "India",
+    "Code": "IND",
+    "Data": 1.663038135,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [78.96288, 20.593684]
+    }
+  },
+  {
+    "Country": "Indonesia",
+    "Code": "IDN",
+    "Data": 4.285633087,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.921327, -0.789275]
+    }
+  },
+  {
+    "Country": "Iran",
+    "Code": "IRN",
+    "Data": 11.38690186,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [53.688046, 32.427908]
+    }
+  },
+  {
+    "Country": "Iraq",
+    "Code": "IRQ",
+    "Data": 15.54876041,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [43.679291, 33.223191]
+    }
+  },
+  {
+    "Country": "Ireland",
+    "Code": "IRL",
+    "Data": 30.71159744,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-8.24389, 53.41291]
+    }
+  },
+  {
+    "Country": "Israel",
+    "Code": "ISR",
+    "Data": 30.06260109,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [34.851612, 31.046051]
+    }
+  },
+  {
+    "Country": "Italy",
+    "Code": "ITA",
+    "Data": 29.9838562,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [12.56738, 41.87194]
+    }
+  },
+  {
+    "Country": "Jamaica",
+    "Code": "JAM",
+    "Data": 13.02199459,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-77.297508, 18.109581]
+    }
+  },
+  {
+    "Country": "Japan",
+    "Code": "JPN",
+    "Data": 34.78970718,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [138.252924, 36.204824]
+    }
+  },
+  {
+    "Country": "Jordan",
+    "Code": "JOR",
+    "Data": 6.179914951,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [36.238414, 30.585164]
+    }
+  },
+  {
+    "Country": "Kazakhstan",
+    "Code": "KAZ",
+    "Data": 13.95558834,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [66.923684, 48.019573]
+    }
+  },
+  {
+    "Country": "Kenya",
+    "Code": "KEN",
+    "Data": 1.253812075,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [37.906193, -0.023559]
+    }
+  },
+  {
+    "Country": "Kiribati",
+    "Code": "KIR",
+    "Data": 0.154877812,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-157.498337, 1.870883]
+    }
+  },
+  {
+    "Country": "Kuwait",
+    "Code": "KWT",
+    "Data": 1.731571674,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [47.481766, 29.31166]
+    }
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Code": "KGZ",
+    "Data": 4.429665089,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [74.766098, 41.20438]
+    }
+  },
+  {
+    "Country": "Laos",
+    "Code": "LAO",
+    "Data": 1.759314775,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [102.495496, 19.85627]
+    }
+  },
+  {
+    "Country": "Latin America and Caribbean",
+    "Code": "",
+    "Data": 14.829072,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-61.000000, 15.000000]
+    }
+  },
+  {
+    "Country": "Latvia",
+    "Code": "LVA",
+    "Data": 26.00835037,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.603189, 56.879635]
+    }
+  },
+  {
+    "Country": "Lebanon",
+    "Code": "LBN",
+    "Data": 6.330283165,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.862285, 33.854721]
+    }
+  },
+  {
+    "Country": "Lesotho",
+    "Code": "LSO",
+    "Data": 0.236200362,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [28.233608, -29.609988]
+    }
+  },
+  {
+    "Country": "Liberia",
+    "Code": "LBR",
+    "Data": 0.257034808,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-9.429499, 6.428055]
+    }
+  },
+  {
+    "Country": "Libya",
+    "Code": "LBY",
+    "Data": 4.831696987,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [17.228331, 26.3351]
+    }
+  },
+  {
+    "Country": "Liechtenstein",
+    "Code": "LIE",
+    "Data": 47.34053802,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.555373, 47.166]
+    }
+  },
+  {
+    "Country": "Lithuania",
+    "Code": "LTU",
+    "Data": 29.27000046,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [23.881275, 55.169438]
+    }
+  },
+  {
+    "Country": "Low and middle income",
+    "Code": "",
+    "Data": 12.16983128,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-61.000000, 15.000000]
+    }
+  },
+  {
+    "Country": "Low income",
+    "Code": "",
+    "Data": 0.471478492,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-61.000000, 15.000000]
+    }
+  },
+  {
+    "Country": "Lower middle income",
+    "Code": "",
+    "Data": 3.658604145,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-61.000000, 15.000000]
+    }
+  },
+  {
+    "Country": "Luxembourg",
+    "Code": "LUX",
+    "Data": 37.56601715,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.129583, 49.815273]
+    }
+  },
+  {
+    "Country": "Macao",
+    "Code": "MAC",
+    "Data": 32.03277206,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [113.54909, 22.198745]
+    }
+  },
+  {
+    "Country": "Madagascar",
+    "Code": "MDG",
+    "Data": 0.115560934,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [46.869107, -18.766947]
+    }
+  },
+  {
+    "Country": "Malawi",
+    "Code": "MWI",
+    "Data": 0.064061843,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [34.301525, -13.254308]
+    }
+  },
+  {
+    "Country": "Malaysia",
+    "Code": "MYS",
+    "Data": 10.3775568,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [101.975766, 4.210484]
+    }
+  },
+  {
+    "Country": "Maldives",
+    "Code": "MDV",
+    "Data": 11.78164959,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [73.22068, 3.202778]
+    }
+  },
+  {
+    "Country": "Mali",
+    "Code": "MLI",
+    "Data": 1.203930736,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-3.996166, 17.570692]
+    }
+  },
+  {
+    "Country": "Malta",
+    "Code": "MLT",
+    "Data": 48.33481598,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [14.375416, 35.937496]
+    }
+  },
+  {
+    "Country": "Marshall Islands",
+    "Code": "MHL",
+    "Data": 1.689474583,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [171.184478, 7.131474]
+    }
+  },
+  {
+    "Country": "Mauritania",
+    "Code": "MRT",
+    "Data": 0.39695394,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-10.940835, 21.00789]
+    }
+  },
+  {
+    "Country": "Mauritius",
+    "Code": "MUS",
+    "Data": 25.4134407,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [57.552152, -20.348404]
+    }
+  },
+  {
+    "Country": "Mexico",
+    "Code": "MEX",
+    "Data": 17.01362228,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-102.552784, 23.634501]
+    }
+  },
+  {
+    "Country": "Micronesia (country)",
+    "Code": "FSM",
+    "Data": 5.216348171,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [158.695435, 7.425554]
+    }
+  },
+  {
+    "Country": "Middle East and North Africa",
+    "Code": "",
+    "Data": 11.02017879,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.000000, 32.000000]
+    }
+  },
+  {
+    "Country": "Middle income",
+    "Code": "",
+    "Data": 13.39396477,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.000000, 32.000000]
+    }
+  },
+  {
+    "Country": "Moldova",
+    "Code": "MDA",
+    "Data": 17.82368851,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [28.369885, 47.411631]
+    }
+  },
+  {
+    "Country": "Monaco",
+    "Code": "MCO",
+    "Data": 53.20065308,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [7.412841, 43.750298]
+    }
+  },
+  {
+    "Country": "Mongolia",
+    "Code": "MNG",
+    "Data": 9.369702339,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.846656, 46.862496]
+    }
+  },
+  {
+    "Country": "Montenegro",
+    "Code": "MNE",
+    "Data": 29.32430649,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.37439, 42.708678]
+    }
+  },
+  {
+    "Country": "Morocco",
+    "Code": "MAR",
+    "Data": 5.696022987,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-7.09262, 31.791702]
+    }
+  },
+  {
+    "Country": "Mozambique",
+    "Code": "MOZ",
+    "Data": 0.223961055,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.529562, -18.665695]
+    }
+  },
+  {
+    "Country": "Myanmar",
+    "Code": "MMR",
+    "Data": 1.265975952,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [95.956223, 21.913965]
+    }
+  },
+  {
+    "Country": "Namibia",
+    "Code": "NAM",
+    "Data": 2.796759367,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.49041, -22.95764]
+    }
+  },
+  {
+    "Country": "Nepal",
+    "Code": "NPL",
+    "Data": 4.358747959,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [84.124008, 28.394857]
+    }
+  },
+  {
+    "Country": "Netherlands",
+    "Code": "NLD",
+    "Data": 43.91638184,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [5.291266, 52.132633]
+    }
+  },
+  {
+    "Country": "New Caledonia",
+    "Code": "NCL",
+    "Data": 19.26458359,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [165.618042, -20.904305]
+    }
+  },
+  {
+    "Country": "New Zealand",
+    "Code": "NZL",
+    "Data": 36.60096741,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [174.885971, -40.900557]
+    }
+  },
+  {
+    "Country": "Nicaragua",
+    "Code": "NIC",
+    "Data": 4.382951736,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-85.207229, 12.865416]
+    }
+  },
+  {
+    "Country": "Niger",
+    "Code": "NER",
+    "Data": 0.049573168,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.081666, 17.607789]
+    }
+  },
+  {
+    "Country": "Nigeria",
+    "Code": "NGA",
+    "Data": 0.03168387,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.675277, 9.081999]
+    }
+  },
+  {
+    "Country": "North America",
+    "Code": "",
+    "Data": 37.15351868,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-100.000000, 40.000000]
+    }
+  },
+  {
+    "Country": "North Macedonia",
+    "Code": "MKD",
+    "Data": 22.82686615,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.745275, 41.608635]
+    }
+  },
+  {
+    "Country": "Norway",
+    "Code": "NOR",
+    "Data": 44.04270172,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.468946, 60.472024]
+    }
+  },
+  {
+    "Country": "Oman",
+    "Code": "OMN",
+    "Data": 10.85332489,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [55.923255, 21.512583]
+    }
+  },
+  {
+    "Country": "Pakistan",
+    "Code": "PAK",
+    "Data": 1.142197609,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [69.345116, 30.375321]
+    }
+  },
+  {
+    "Country": "Palestine",
+    "Code": "PSE",
+    "Data": 7.388363361,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.233154, 31.952162]
+    }
+  },
+  {
+    "Country": "Panama",
+    "Code": "PAN",
+    "Data": 13.03460884,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-80.782127, 8.537981]
+    }
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Code": "PNG",
+    "Data": 0.23471491,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [143.95555, -6.314993]
+    }
+  },
+  {
+    "Country": "Paraguay",
+    "Code": "PRY",
+    "Data": 7.88455677,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-58.443832, -23.442503]
+    }
+  },
+  {
+    "Country": "Peru",
+    "Code": "PER",
+    "Data": 9.232116699,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-75.015152, -9.189967]
+    }
+  },
+  {
+    "Country": "Philippines",
+    "Code": "PHL",
+    "Data": 7.242650032,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [121.774017, 12.879721]
+    }
+  },
+  {
+    "Country": "Poland",
+    "Code": "POL",
+    "Data": 22.11351967,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.145136, 51.919438]
+    }
+  },
+  {
+    "Country": "Portugal",
+    "Code": "PRT",
+    "Data": 40.80527496,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-8.224454, 39.399872]
+    }
+  },
+  {
+    "Country": "Puerto Rico",
+    "Code": "PRI",
+    "Data": 23.46446991,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-66.590149, 18.220833]
+    }
+  },
+  {
+    "Country": "Qatar",
+    "Code": "QAT",
+    "Data": 10.2783947,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [51.183884, 25.354826]
+    }
+  },
+  {
+    "Country": "Romania",
+    "Code": "ROU",
+    "Data": 29.55023003,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [24.96676, 45.943161]
+    }
+  },
+  {
+    "Country": "Russia",
+    "Code": "RUS",
+    "Data": 23.22501755,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [105.318756, 61.52401]
+    }
+  },
+  {
+    "Country": "Rwanda",
+    "Code": "RWA",
+    "Data": 0.136540323,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.873888, -1.940278]
+    }
+  },
+  {
+    "Country": "Saint Kitts and Nevis",
+    "Code": "KNA",
+    "Data": 56.39203644,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-62.782998, 17.357822]
+    }
+  },
+  {
+    "Country": "Saint Lucia",
+    "Code": "LCA",
+    "Data": 17.97121429,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-60.978893, 13.909444]
+    }
+  },
+  {
+    "Country": "Saint Vincent and the Grenadines",
+    "Code": "VCT",
+    "Data": 22.29403305,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-61.287228, 12.984305]
+    }
+  },
+  {
+    "Country": "Samoa",
+    "Code": "WSM",
+    "Data": 0.852762401,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-172.164851, -13.759029]
+    }
+  },
+  {
+    "Country": "San Marino",
+    "Code": "SMR",
+    "Data": 32.41873169,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [12.457777, 43.94236]
+    }
+  },
+  {
+    "Country": "Sao Tome and Principe",
+    "Code": "STP",
+    "Data": 1.146199822,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [6.613081, 0.18636]
+    }
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Code": "SAU",
+    "Data": 22.66412926,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [45.079162, 23.885942]
+    }
+  },
+  {
+    "Country": "Senegal",
+    "Code": "SEN",
+    "Data": 0.918619633,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-14.452362, 14.497401]
+    }
+  },
+  {
+    "Country": "Serbia",
+    "Code": "SRB",
+    "Data": 25.18350029,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [21.005859, 44.016521]
+    }
+  },
+  {
+    "Country": "Seychelles",
+    "Code": "SYC",
+    "Data": 35.55370331,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [55.491977, -4.679574]
+    }
+  },
+  {
+    "Country": "Singapore",
+    "Code": "SGP",
+    "Data": 25.80532837,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [103.8, 1.366667]
+    }
+  },
+  {
+    "Country": "Slovakia",
+    "Code": "SVK",
+    "Data": 31.1661644,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [19.699024, 48.669026]
+    }
+  },
+  {
+    "Country": "Slovenia",
+    "Code": "SVN",
+    "Data": 31.34311867,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [14.995463, 46.151241]
+    }
+  },
+  {
+    "Country": "Solomon Islands",
+    "Code": "SLB",
+    "Data": 0.145584986,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [160.156194, -9.64571]
+    }
+  },
+  {
+    "Country": "Somalia",
+    "Code": "SOM",
+    "Data": 0.748746872,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [46.199616, 5.152149]
+    }
+  },
+  {
+    "Country": "South Africa",
+    "Code": "ZAF",
+    "Data": 2.197076082,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.937506, -30.559482]
+    }
+  },
+  {
+    "Country": "South Asia",
+    "Code": "",
+    "Data": 2.083134413,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [78.96288, 23.5937]
+    }
+  },
+  {
+    "Country": "South Korea",
+    "Code": "KOR",
+    "Data": 43.54893112,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [127.766922, 35.907757]
+    }
+  },
+  {
+    "Country": "Spain",
+    "Code": "ESP",
+    "Data": 34.62427139,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-3.74922, 40.463667]
+    }
+  },
+  {
+    "Country": "Sri Lanka",
+    "Code": "LKA",
+    "Data": 8.319755554,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [80.771797, 7.873054]
+    }
+  },
+  {
+    "Country": "Sub-Saharan Africa",
+    "Code": "",
+    "Data": 0.600071907,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [22.937506, -8.87528]
+    }
+  },
+  {
+    "Country": "Sudan",
+    "Code": "SDN",
+    "Data": 0.065638505,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [30.217636, 12.862807]
+    }
+  },
+  {
+    "Country": "Suriname",
+    "Code": "SUR",
+    "Data": 15.72877026,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-56.027783, 3.919305]
+    }
+  },
+  {
+    "Country": "Sweden",
+    "Code": "SWE",
+    "Data": 41.38493347,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [18.643501, 60.128161]
+    }
+  },
+  {
+    "Country": "Switzerland",
+    "Code": "CHE",
+    "Data": 46.54435349,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [8.227512, 46.818188]
+    }
+  },
+  {
+    "Country": "Syria",
+    "Code": "SYR",
+    "Data": 8.85307312,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [38.996815, 34.802075]
+    }
+  },
+  {
+    "Country": "Tajikistan",
+    "Code": "TJK",
+    "Data": 0.062908612,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [71.276093, 38.861034]
+    }
+  },
+  {
+    "Country": "Tanzania",
+    "Code": "TZA",
+    "Data": 1.901101351,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [34.888822, -6.369028]
+    }
+  },
+  {
+    "Country": "Thailand",
+    "Code": "THA",
+    "Data": 16.44451141,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [100.992541, 15.870032]
+    }
+  },
+  {
+    "Country": "Timor",
+    "Code": "TLS",
+    "Data": 0.005688519,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [125.727539, -8.874217]
+    }
+  },
+  {
+    "Country": "Togo",
+    "Code": "TGO",
+    "Data": 0.636644006,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0.824782, 8.619543]
+    }
+  },
+  {
+    "Country": "Tonga",
+    "Code": "TON",
+    "Data": 4.730592728,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-175.198242, -21.178986]
+    }
+  },
+  {
+    "Country": "Trinidad and Tobago",
+    "Code": "TTO",
+    "Data": 26.92206001,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-61.265679, 10.457334]
+    }
+  },
+  {
+    "Country": "Tunisia",
+    "Code": "TUN",
+    "Data": 11.28777409,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [9.537499, 33.886917]
+    }
+  },
+  {
+    "Country": "Turkey",
+    "Code": "TUR",
+    "Data": 19.84235001,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [35.243322, 38.963745]
+    }
+  },
+  {
+    "Country": "Turkmenistan",
+    "Code": "TKM",
+    "Data": 0.16580449,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [59.556278, 38.969719]
+    }
+  },
+  {
+    "Country": "Uganda",
+    "Code": "UGA",
+    "Data": 0.128099501,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [32.290275, 1.373333]
+    }
+  },
+  {
+    "Country": "Ukraine",
+    "Code": "UKR",
+    "Data": 18.61701393,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [31.16558, 48.379433]
+    }
+  },
+  {
+    "Country": "United Arab Emirates",
+    "Code": "ARE",
+    "Data": 32.81082916,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [53.847818, 23.424076]
+    }
+  },
+  {
+    "Country": "United Kingdom",
+    "Code": "GBR",
+    "Data": 40.25909805,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-3.435973, 55.378051]
+    }
+  },
+  {
+    "Country": "United States",
+    "Code": "USA",
+    "Data": 36.60876846,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-95.712891, 37.09024]
+    }
+  },
+  {
+    "Country": "Uruguay",
+    "Code": "URY",
+    "Data": 30.62129211,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-55.765835, -32.522779]
+    }
+  },
+  {
+    "Country": "Uzbekistan",
+    "Code": "UZB",
+    "Data": 14.40132618,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [64.585262, 41.377491]
+    }
+  },
+  {
+    "Country": "Vanuatu",
+    "Code": "VUT",
+    "Data": 0.906737864,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [166.959158, -15.376706]
+    }
+  },
+  {
+    "Country": "Venezuela",
+    "Code": "VEN",
+    "Data": 9.008163452,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-66.58973, 6.42375]
+    }
+  },
+  {
+    "Country": "Vietnam",
+    "Code": "VNM",
+    "Data": 17.15583801,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [108.277199, 14.058324]
+    }
+  },
+  {
+    "Country": "World",
+    "Code": "OWID_WRL",
+    "Data": 15.88739586,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [0, 0]
+    }
+  },
+  {
+    "Country": "Yemen",
+    "Code": "YEM",
+    "Data": 1.310938358,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [48.516388, 15.552727]
+    }
+  },
+  {
+    "Country": "Zambia",
+    "Code": "ZMB",
+    "Data": 0.44776547,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [27.849332, -13.133897]
+    }
+  },
+  {
+    "Country": "Zimbabwe",
+    "Code": "ZWE",
+    "Data": 1.368916392,
+    "geometry": {
+      "type": "Point",
+      "coordinates": [29.154857, -19.015438]
+    }
+  }
+]
+
+}
