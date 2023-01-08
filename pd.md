@@ -1,5 +1,3 @@
-<!-- PROJECT DESCRIPTION -->
-
 ### Project Description
 
 `i-map` is a simple React Web application built using the [React](https://reactjs.org/) framework and [Mapbox GL JS](https://docs.mapbox.com/mapbox-gl-js/api/). In this project I used `react-map-gl` for creating the interactive map. Which on clicking at the location will show the details of the location. The data I used in this project actually represents the Data Usage in that particular location.
@@ -42,7 +40,7 @@ Example:
 
 For instance I clicked on the Mark representing the location `India` in the map. It will show the details of the location `India` in the popup. The below image shows the example of the popup.
 
-![Popup](./src/data/imap-india.png)
+![Popup](https://github.com/mnk17arts/i-map/raw/master/src/data/imap-india.png)
 
 
 This project code is available in the [GitHub](https://github.com/mnk17arts/i-map) repository. 
